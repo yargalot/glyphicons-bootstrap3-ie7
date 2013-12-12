@@ -484,3 +484,117 @@
 .glyphicon-collapse-top {
   zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe160;');
 }
+.glyphicon-cloud {
+  zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x2601;');
+}
+.glyphicon-cloud-download {
+  zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe197;');
+}
+.glyphicon-cloud-upload {
+  zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe198;');
+}
+.glyphicon-collapse-down {
+  zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe159;');
+}
+.glyphicon-collapse-up {
+  zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe160;');
+}
+.glyphicon-compressed {
+  zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe181;');
+}
+.glyphicon-copyright-mark {
+  zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe194;');
+}
+.glyphicon-credit-card {
+  zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe177;');
+}
+.glyphicon-cutlery {
+  zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe179;');
+}
+.glyphicon-earphone {
+  zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe182;');
+}
+.glyphicon-flash {
+  zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe162;');
+}
+.glyphicon-floppy-disk {
+  zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe172;');
+}
+.glyphicon-floppy-open {
+  zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe176;');
+}
+.glyphicon-floppy-remove {
+  zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe174;');
+}
+.glyphicon-floppy-save {
+  zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe175;');
+}
+.glyphicon-floppy-saved {
+  zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe173;');
+}
+.glyphicon-hd-video {
+  zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe187;');
+}
+.glyphicon-header {
+  zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe180;');
+}
+.glyphicon-import {
+  zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe169;');
+}
+.glyphicon-log-in {
+  zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe161;');
+}
+.glyphicon-log-out {
+  zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe163;');
+}
+.glyphicon-open {
+  zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe167;');
+}
+.glyphicon-new-window {
+  zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe164;');
+}
+.glyphicon-registration-mark {
+  zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe195;');
+}
+.glyphicon-save {
+  zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe166;');
+}
+.glyphicon-saved {
+  zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe168;');
+}
+.glyphicon-sd-video {
+  zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe186;');
+}
+.glyphicon-send {
+  zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe171;');
+}
+.glyphicon-sound-5-1 {
+  zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe191;');
+}
+.glyphicon-sound-6-1 {
+  zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe192;');
+}
+.glyphicon-sound-7-1 {
+  zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe193;');
+}
+.glyphicon-sound-dolby {
+  zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe190;');
+}
+.glyphicon-sound-stereo {
+  zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe189;');
+}
+.glyphicon-stats {
+  zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe185;');
+}
+.glyphicon-tower {
+  zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe184;');
+}
+.glyphicon-transfer {
+  zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe178;');
+}
+.glyphicon-tree-conifer {
+  zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe199;');
+}
+.glyphicon-tree-deciduous {
+  zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe200;');
+}
