@@ -3,6 +3,7 @@
   font-style: normal;
   text-decoration: inherit;
   line-height: normal;
+padding-right:4px;
 }
 .glyphicon-glass {
   zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe001;');
@@ -597,4 +598,13 @@
 }
 .glyphicon-tree-deciduous {
   zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe200;');
+}
+.glyphicon-record {
+  zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe165;');
+}
+.glyphicon-subtitles {
+  zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe188;');
+}
+.glyphicon-export {
+  zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe170;');
 }
